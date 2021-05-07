@@ -1,4 +1,6 @@
-# Yongrenjie Abbotsbury
+# Homebrew formula for abbotsbury
+
+See https://github.com/yongrenjie/abbotsbury.
 
 ## How do I install these formulae?
 
