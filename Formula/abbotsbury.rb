@@ -6,8 +6,9 @@ class Abbotsbury < Formula
   license "MIT"
 
   # bottle do
-  #   root_url "https://github.com/yongrenjie/abbotsbury/releases/download/untagged-f35d0f016a032c324bc2/abbot-v0.1.0.3-macOS.tar.gz"
-  #   sha256 cellar: :any,  big_sur: "2cbd6765704ae26f20b19557f022f7ded4c0b9f802cabd3db6a7348921b0cdb8"
+  #   root_url "https://github.com/yongrenjie/homebrew-abbotsbury/releases/download/v0.1.0.3"
+  #   rebuild 1
+  #   sha256 cellar: :any_skip_relocation, big_sur: "babb8df50cdff44e2b97615ee43aa367dcf5d3b75b4313b44d45e6e5430badf6"
   # end
 
   # much of this is taken from pandoc's formula.
