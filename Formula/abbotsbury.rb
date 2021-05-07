@@ -1,5 +1,5 @@
 class Abbotsbury < Formula
-  desc "minimalistic command-line reference manager"
+  desc "Minimalistic command-line reference manager"
   homepage "https://github.com/yongrenjie/abbotsbury"
   url "https://github.com/yongrenjie/abbotsbury.git", tag: "v0.1.0.5", revision: "6c9efddc39ca73258894666a9a3752fec607208b"
   license "MIT"
