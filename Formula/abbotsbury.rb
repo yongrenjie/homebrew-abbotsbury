@@ -4,6 +4,13 @@ class Abbotsbury < Formula
   license "MIT"
   url "https://github.com/yongrenjie/abbotsbury.git", tag: "v0.1.1.2", revision: "c0f73f8878347660d8a2fc984321484a37806cdf"
 
+bottle do
+  root_url "https://github.com/yongrenjie/abbotsbury/releases/download/v0.1.1.2"
+  
+  sha256 cellar: :any, catalina: "7717a86a5e99ec8dd56e86dcbc447ab6243b9d32edaebf404bd2a6728a466e1c"
+end
+
+
 
 
 
