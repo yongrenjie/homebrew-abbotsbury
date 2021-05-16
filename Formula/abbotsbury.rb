@@ -5,7 +5,7 @@ class Abbotsbury < Formula
   license "MIT"
 
   bottle do
-    root_url "https://github.com/yongrenjie/abbotsbury/releases/download/v0.2.1.0"
+    root_url "https://github.com/yongrenjie/abbotsbury/releases/download/v0.2.2.0"
     sha256 cellar: :any, catalina: "5da16141ad5864d48c6ad3ad66fc8f2246972e1e63720b026e07bfab2415163f"
   end
 
