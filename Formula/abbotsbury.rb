@@ -6,7 +6,7 @@ class Abbotsbury < Formula
 
   bottle do
     root_url "https://github.com/yongrenjie/abbotsbury/releases/download/v0.2.2.0"
-    sha256 cellar: :any, catalina: "5da16141ad5864d48c6ad3ad66fc8f2246972e1e63720b026e07bfab2415163f"
+    sha256 cellar: :any, catalina: "6267588808635572efe987a696b46c495d1853f528822ebd6d73cae8f2bb228e"
   end
 
   depends_on "cabal-install" => :build
