@@ -5,8 +5,8 @@ class Abbotsbury < Formula
   license "MIT"
 
   bottle do
-    root_url "https://github.com/yongrenjie/abbotsbury/releases/download/v0.4.0.0"
-    sha256 cellar: :any, catalina: "60df9fae66ad3fb4712d5fd31c529ace727fe80d8761de678a6a98af3400962c"
+    root_url "https://github.com/yongrenjie/abbotsbury/releases/download/v0.4.1.0"
+    sha256 cellar: :any, catalina: "d578fa733be88b87a8dfc304ad421c45418614360df3e56dc00ee9a011157317"
   end
 
   depends_on "cabal-install" => :build
