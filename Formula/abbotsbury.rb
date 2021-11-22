@@ -1,7 +1,7 @@
 class Abbotsbury < Formula
   desc "Minimalistic command-line reference manager"
   homepage "https://github.com/yongrenjie/abbotsbury"
-  url "https://github.com/yongrenjie/abbotsbury.git", tag: "v0.5.0.1", revision: "aaff13fac469c58fa7de240e35b49872e9b01175"
+  url "https://github.com/yongrenjie/abbotsbury.git", tag: "v0.6.0.0", revision: "5dfe482e372b5626a14d1587d06a52130fbe6793"
   license "MIT"
 
   bottle do
